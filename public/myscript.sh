@@ -7,5 +7,6 @@ test3
 apres suppression de drop manuellement
 clear target folder
 apres ajout de instance 4 qui la configuration de vm image et ne ressemble pas a l instance existante
+apres release je trouve encore la derniere instance vide, essaie2
 chmod -R 755 /var/www/drop/
 HERE
