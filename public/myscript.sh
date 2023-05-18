@@ -1,4 +1,4 @@
-#modif1
+#modif1.2
 sudo su <<HERE
 cd /var/www/
 rm -rf  drop   
